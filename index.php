@@ -50,7 +50,7 @@
     <div class="col-sm-4">
       <h2>About Me</h2>
       <h5>Photo of me:</h5>
-      <div class="fndrsm.jpg">Fndrsm on instagram</div>
+      <img src="fndrsm.jpg" alt="Fndrsm on instagram">
       <p>Saya orangnya pemalu dan ini buat tugas cloud computing ya. Tapi coba, dark modenya nih dibawah.</p>
       <button onclick="myFunction()">Switch themes</button>
       <script>
