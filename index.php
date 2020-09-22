@@ -63,7 +63,7 @@ function myFunction() {
       <p>Kalo penting aja ya bolehlah kita chattingan.</p>
       <ul class="nav nav-pills nav-stacked">
         <li class="active"><a href="https://www.instagram.com/fndrsm/">Instagram</a></li>
-        <li class="active"><a href="www.wattpad.com/story/150076725-moss">Wattpad</a></li>
+        <li class="active"><a href="https://www.wattpad.com/story/150076725-moss">Wattpad</a></li>
         <li class="active"><a href="falahmeola@gmail.com">Email</a></li>
       </ul>
       <hr class="hidden-sm hidden-md hidden-lg">
