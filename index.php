@@ -72,13 +72,13 @@ function myFunction() {
     </div>
     <div class="col-sm-8">
       <h2>BERCOCOK TANAM</h2>
-      <h5>Last Update, Sept 21, 2020</h5>
+      <h5>Last Update, Sept 22, 2020</h5>
       <img src="https://images.unsplash.com/photo-1530836369250-ef72a3f5cda8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80" alt="Person holding plants" width="500" height="333">
       <i><p>Photo by Joshua Lanzarini on Unsplash</p></i>
       <p>Apabila kamu mempunyai hobi yang sama seperti saya, yaitu bercocok tanam, maka tidak perlu susah hati jika ternyata saat ini kamu tidak punya lahan untuk menanam. Cobalah untuk menanam secara hidroponik, dimana media tanamnya sangat sederhana, yaitu kotak plastik, netpot, rockwool dan air. Kalian bisa menanam sayuran, dimana sayuran tersebut dapat kalian gunakan sendiri untuk dimakan. Hal ini juga menghemat pengeluaran dan efektif dengan kondisi sekarang, yaitu mengurangi kegiatan keluar rumah, termasuk kegiatan keluar rumah untuk membeli sayur.</p>
       <br>
       <h2>MENJAHIT</h2>
-      <h5>Last Update, Sept 21, 2020</h5>
+      <h5>Last Update, Sept 22, 2020</h5>
       <img src="https://images.unsplash.com/photo-1564532394920-883437daf280?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" alt="Sewing machine" width="500" height="333">
       <i><p>Photo by Juan Jose Porta on Unsplash</p></i>
       <p>Menjahit bukanlah hal yang susah, dimana saat ini juga sudah bisa dipelajari di youtube tentang cara menjadi penjahit dadakan. Coba saja kalian lihat di youtube, ada banyak cara untuk membuat baju, tas atau peralatan lainnya, dimana dengan hanya menjahit saja. 
@@ -88,13 +88,13 @@ Pertama-tama, jika kalian masih pemula, pelajari dahulu cara menjahit dengan tan
 Apabila menjahit dengan tangan sudah kalian kuasai, maka kalian dapat beralih menjahit dengan menggunakan mesin jahit, bahkan saat ini mesin jahit sudah mudah digunakan dengan adanya dinamo untuk membantu memutar mesin jahit tanpa memutarnya dengan kaki, seperti mesin jahit jaman dahulu kala.</p>
 	<br>
       <h2>BERMAIN GAME</h2>
-      <h5>Last Update, Sept 21, 2020</h5>
+      <h5>Last Update, Sept 22, 2020</h5>
       <img src="https://images.unsplash.com/photo-1534423861386-85a16f5d13fd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80" alt="Sewing machine" width="500" height="333">
       <i><p>Photo by Sean Do on Unsplash</p></i>
       <p>Hal menyenangkan lainnya adalah bermain game. Iya, bermain game, selain menyenangkan dan dapat membuat kita tidak sadar waktu, saat ini game juga dapat menghasilkan uang. Jadi game saat ini bukanlah hal yang negatif, tetapi juga dapat menjadi lahan penghasilan. game yang sering dimainkan antara lain adalah  game online seperti point blank, counter strike, hingga game online android seperti PUBG Mobile.</p>
       <br>
       <h2>BERNYANYI</h2>
-      <h5>Last Update, Sept 21, 2020</h5>
+      <h5>Last Update, Sept 22, 2020</h5>
       <img src="https://images.unsplash.com/photo-1517230878791-4d28214057c2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80" alt="Sewing machine" width="500" height="333">
       <i><p>Photo by Elizeu Dias on Unsplash</p></i>
       <p>Jika kalian dirumah secara terus-menerus, maka kalian akan jenuh dan bahkan stress. Maka dari itu bernyanyi dapat menjadi cara menghibur diri juga dapat menghibur orang lain, apabila nyanyian kalian dinyanyikan dengan baik dan disiarkan di media sosial. Jika kalian belum dapat bernyanyi dengan baik, inilah kesempatan kalian untuk berlatih bernyanyi dirumah lewat youtube maupun aplikasi untuk berkaraoke.
