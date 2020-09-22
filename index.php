@@ -51,7 +51,7 @@
       <h2>About Me</h2>
       <h5>Photo of me:</h5>
       <img src="fndrsm.jpg" alt="Fndrsm on instagram" style="width:200px;height:200px;">
-      <p>Saya orangnya pemalu dan ini buat tugas cloud computing ya. Tapi coba, dark modenya nih dibawah.</p>
+      <p>Saya orangnya pemalu ehehehe. Ohh ya, ini buat tugas cloud computing ya. Saya gak ahli kalo bikin web. Tapi, coba dark modenya nih dibawah.</p>
       <button onclick="myFunction()">Switch themes</button>
       <script>
 function myFunction() {
@@ -65,6 +65,8 @@ function myFunction() {
         <li class="active"><a href="https://www.instagram.com/fndrsm/">Instagram</a></li>
         <li class="active"><a href="https://www.wattpad.com/story/150076725-moss">Wattpad</a></li>
         <li class="active"><a href="mailto:falahmeola@gmail.com">Email</a></li>
+        <li class="active"><a href="https://www.youtube.com/channel/UCUW_XUEHkYkovlFvhrh1QUg">Youtube</a></li>
+        <li class="active"><a href="https://twitter.com/fndrsm?s=09">Twitter</a></li>
       </ul>
       <hr class="hidden-sm hidden-md hidden-lg">
     </div>
@@ -99,7 +101,7 @@ Apabila menjahit dengan tangan sudah kalian kuasai, maka kalian dapat beralih me
 
 Bagaimana, cukup bervariasi bukan ide-ide diatas untuk kalian terapkan dikala seperti ini. Yang penting hindari stress dan jalankan hidup efektif dan bermanfaat, agar kedepannya hidup kita jadi lebih baik.</p>
 	<br>
-    <p>Nah, gimana nih ges. Dari semua yang ada diatas saya udah lakuin semua. Dari mulai tanam pohon sampai main game. Tapi saya ga lupa sama kuliah ya. Tetap belajar sama ngerjain tugas, dan gak lupa sama kuliah online ya. Tetap semangat kuliahnya ya ges. Jaga kesehatan, jangan lupa cuci tangan sama pakai masker.</p>
+    <p>Nah, gimana nih ges. Dari semua yang ada diatas saya udah lakuin semua. Dari mulai tanam pohon sampai main game. Tapi saya gak lupa sama kuliah ya. Tetap belajar sama ngerjain tugas, dan gak lupa sama kuliah online ya. Tetap semangat kuliahnya ya ges. Jaga kesehatan, dan jangan lupa cuci tangan sama pakai masker.</p>
     <br><br><br>
     <p>Sumber artikel dari <a href="https://www.kompasiana.com/yanti70738/5e7f11fe097f364d4a2d6183/bermanfaat-saat-work-from-home?page=all#section1">kompasiana.com</a></p>
     </div>
