@@ -7,6 +7,7 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <script src="https://kit.fontawesome.com/yourcode.js"></script>
   <style>
   body {
     font-family: 'Montserrat';font-size: 15px;
@@ -64,7 +65,7 @@ function myFunction() {
       <h3>Sekedar Info</h3>
       <p>Kalo penting aja ya bolehlah kita chattingan.</p>
       <ul class="nav nav-pills nav-stacked">
-        <li class="active"><a href="https://www.instagram.com/fndrsm/">Instagram</a></li>
+        <li class='fab fa-instagram' style='font-size:36px'href="https://www.instagram.com/fndrsm/"</li>
         <li class="active"><a href="https://www.wattpad.com/story/150076725-moss">Wattpad</a></li>
         <li class="active"><a href="mailto:falahmeola@gmail.com">Email</a></li>
         <li class="active"><a href="https://www.youtube.com/channel/UCUW_XUEHkYkovlFvhrh1QUg">Youtube</a></li>
