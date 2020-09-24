@@ -65,7 +65,7 @@ function myFunction() {
       <h3>Sekedar Info</h3>
       <p>Kalo penting aja ya bolehlah kita chattingan.</p>
       <ul class="nav nav-pills nav-stacked">
-        <li class='fab fa-instagram' style='font-size:36px'href="https://www.instagram.com/fndrsm/"</li>
+        <i class='fab fa-instagram' style='font-size:36px'href="https://www.instagram.com/fndrsm/"></i>
         <li class="active"><a href="https://www.wattpad.com/story/150076725-moss">Wattpad</a></li>
         <li class="active"><a href="mailto:falahmeola@gmail.com">Email</a></li>
         <li class="active"><a href="https://www.youtube.com/channel/UCUW_XUEHkYkovlFvhrh1QUg">Youtube</a></li>
