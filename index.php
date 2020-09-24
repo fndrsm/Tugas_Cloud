@@ -50,7 +50,7 @@
     <div class="col-sm-4">
       <h2>About Me</h2>
       <h5>Photo of me:</h5>
-      <img src="fndrsm.jpg" alt="Fndrsm on instagram" style="width:200px;height:200px;">
+      <img src="fndrsm.jpg" alt="Fndrsm on instagram" class="img-circle" style="width:200px;height:200px;">
       <h5>Nama : Falah Meola Fenderian</h5>
 	<h5>NIM : 11180910000040</h5>
 	    <p>Saya orangnya pemalu ehehehe. Ohh ya, ini buat tugas cloud computing ya. Saya gak ahli kalo bikin web. Tapi, coba dark modenya nih dibawah.</p>
